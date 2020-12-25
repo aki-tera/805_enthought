@@ -1,0 +1,8 @@
+不要なフォルダ
+.ipynb_checkpoints
+
+#不要なファイル
+.gitignore
+*.xls
+*.xlsx
+*.dat
