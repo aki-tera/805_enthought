@@ -1,0 +1,10 @@
+ikura     115
+kome       99
+hamachi    73
+tako      179
+ika       180
+tamago    178
+nori       46
+wasabi    111
+maguro     71
+ebi        98
