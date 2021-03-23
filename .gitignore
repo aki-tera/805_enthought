@@ -3,7 +3,3 @@
 
 #不要なファイル
 .gitignore
-*.xls
-*.xlsx
-*.dat
-*.log
